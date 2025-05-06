@@ -1,7 +1,7 @@
 <p align="center">
   <img src="docs/logo.svg" width="160px" height="160px"  alt="logo" />
 </p>
-<h1 align="center">Studio B3</h1>
+<h1 align="center">AutoDev Editor(formerly Studio B3)</h1>
 
 <p align="center">
     <a href="https://github.com/unit-mesh/3b/actions/workflows/deploy.yml">
@@ -14,7 +14,7 @@
 
 Chinese version: [中文版](./README.zh.md)
 
-> Studio B3 (B-3 Bomber) is a sophisticated editor designed for content creation, catering to various formats such as
+> AutoDev Editor(formerly Studio B3) (B-3 Bomber) is a sophisticated editor designed for content creation, catering to various formats such as
 > blogs, articles, user stories, and more.
 
 Mission: Our primary goal is to create an editor similar to [AutoDev](https://github.com/unit-mesh/auto-dev).
@@ -34,7 +34,7 @@ Roadmap: see [Roadmap](https://github.com/unit-mesh/3b/issues/1)
 
 Online Demo: [https://editor.unitmesh.cc/](https://editor.unitmesh.cc/)
 
-Demo Videos: [开源 AI 原生编辑器 Studio B3](https://www.bilibili.com/video/BV1E64y1j7hJ/)
+Demo Videos: [开源 AI 原生编辑器 AutoDev Editor(formerly Studio B3)](https://www.bilibili.com/video/BV1E64y1j7hJ/)
 
 ## Quick Start
 

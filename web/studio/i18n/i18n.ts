@@ -2,7 +2,7 @@ import i18n from 'i18next'
 import { initReactI18next } from 'react-i18next'
 import LanguageDetector from 'i18next-browser-languagedetector'
 
-const mainPlaceholder = `# Studio B3
+const mainPlaceholder = `# AutoDev Editor(formerly Studio B3)
 
 Hi there, B3 is editor for Unit Mesh architecture paradigms, the next-gen software architecture.
 

@@ -1,7 +1,7 @@
 <p align="center">
   <img src="docs/logo.svg" width="160px" height="160px"  alt="logo" />
 </p>
-<h1 align="center">Studio B3</h1>
+<h1 align="center">AutoDev Editor(formerly Studio B3)</h1>
 
 <p align="center">
     <a href="https://github.com/unit-mesh/3b/actions/workflows/deploy.yml">
@@ -15,7 +15,7 @@
     </a>
 </p>
 
-> Studio B3 是一个为内容创作设计的高级编辑器，适用于各种格式，如博客、文章、用户故事等。
+> AutoDev Editor(formerly Studio B3) 是一个为内容创作设计的高级编辑器，适用于各种格式，如博客、文章、用户故事等。
 
 在纪录片《宫崎骏：十载同行》中，这位备受尊敬的艺术家宫崎骏选择了一支 3B 铅笔，认为传统的铅笔在他的创作过程中过于僵硬。让我们向他的崇高理念致敬。
 
@@ -23,7 +23,7 @@
 
 在线演示：[https://editor.unitmesh.cc/](https://editor.unitmesh.cc/)
 
-演示视频: [开源 AI 原生编辑器 Studio B3](https://www.bilibili.com/video/BV1E64y1j7hJ/)
+演示视频: [开源 AI 原生编辑器 AutoDev Editor(formerly Studio B3)](https://www.bilibili.com/video/BV1E64y1j7hJ/)
 
 ## 特点
 

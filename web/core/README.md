@@ -1,4 +1,4 @@
-# Studio B3 Editor
+# AutoDev Editor(formerly Studio B3) Editor
 
 
 ## Installation
