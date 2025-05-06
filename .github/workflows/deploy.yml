@@ -29,16 +29,16 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: pnpm/action-setup@v2
+      - uses: pnpm/action-setup@v4
         with:
           version: 9
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Override config
         run: |
           cp -f web/studio/next.config.ci.js web/studio/next.config.js       
-      
+
       - name: Install dependencies
         run: pnpm install --frozen-lockfile
 
